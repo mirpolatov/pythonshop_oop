@@ -1,0 +1,15 @@
+[
+   {
+      "fullname": "q",
+      "username": "q",
+      "password": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+      "myproduct": [
+         {
+            "name": "olma",
+            "amount": 23,
+            "id": 1,
+            "time": "2023-04-02 19:29:03 PM"
+         }
+      ]
+   }
+]

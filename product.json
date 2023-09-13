@@ -1,0 +1,62 @@
+[
+   {
+      "id": 1,
+      "name": "olma",
+      "amount": 45
+   },
+   {
+      "id": 2,
+      "name": "Nok",
+      "amount": 1
+   },
+   {
+      "id": 3,
+      "name": "Behi",
+      "amount": 56
+   },
+   {
+      "id": 4,
+      "name": "Hurmo",
+      "amount": 100
+   },
+   {
+      "id": 5,
+      "name": "Uzum",
+      "amount": 150
+   },
+   {
+      "id": 6,
+      "name": "Shaftoli",
+      "amount": 65
+   },
+   {
+      "id": 7,
+      "name": "Kivi",
+      "amount": 44
+   },
+   {
+      "id": 8,
+      "name": "banan",
+      "amount": 8
+   },
+   {
+      "id": 9,
+      "name": "banan",
+      "amount": 23
+   },
+   {
+      "id": 10,
+      "name": "olma",
+      "amount": 99
+   },
+   {
+      "id": 11,
+      "name": "olma",
+      "amount": 3
+   },
+   {
+      "id": 12,
+      "name": "olma",
+      "amount": 5
+   }
+]
